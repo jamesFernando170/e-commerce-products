@@ -1,0 +1,14 @@
+{
+    "db-connections" : {
+        "mongodb" : {
+            "host" : "cluster0.8dzlv.mongodb.net",
+            "user" : "eCommerce-api",
+            "password" : "DrgAhg5peqf6EACG",
+            "dbname" : "e-CommerceDB"
+        }
+    },
+    "secretkeys":{
+        "cryptojs" : "2hFLkpnT@SbE68SP5"
+    },
+    "server-port": 3000
+}
